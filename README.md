@@ -13,6 +13,3 @@ Materials we can build on:
 | [R for Humanities](https://github.com/CentreForDigitalHumanities/workshop-r-for-humanities) | Basics in R syntax, to data handling and visualisation using a set of tools known as the ‘tidyverse’ | 
 | [Data exploration toolkit for cultural data](https://github.com/CentreForDigitalHumanities/det_cultural_data) | Structure, clean, visualize, and run a preliminary analysis. See https://centrefordigitalhumanities.github.io/det_cultural_data/ for [Quarto](https://quarto.org/) example. |
 | [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | Introduction into web scraping with Python, with the use of Replit. |
-
-
-CHANGES11111
