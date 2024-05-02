@@ -38,7 +38,7 @@ ___________
     - Bag of Words
     - Word embeddings 
 - Topic modeling
-______
+___________
 
 Topics for toy examples: 
 - Social media comments analysis to understand public discourse 
