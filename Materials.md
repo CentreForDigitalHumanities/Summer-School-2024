@@ -1,5 +1,5 @@
 ## Materials
-Materials we can build on:
+Materials we can draw inspiration from:
 
 | Repository | Description |
 | --- | --- |
