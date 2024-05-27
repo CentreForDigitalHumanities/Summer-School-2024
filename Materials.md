@@ -9,3 +9,5 @@ Materials we can draw inspiration from:
 | [R for Humanities](https://github.com/CentreForDigitalHumanities/workshop-r-for-humanities) | Basics in R syntax, to data handling and visualisation using a set of tools known as the ‘tidyverse’ | 
 | [Data exploration toolkit for cultural data](https://github.com/CentreForDigitalHumanities/det_cultural_data) | Structure, clean, visualize, and run a preliminary analysis. See https://centrefordigitalhumanities.github.io/det_cultural_data/ for [Quarto](https://quarto.org/) example. |
 | [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | Introduction into web scraping with Python, with the use of Replit. |
+| [Glossary](https://docs.python.org/3/glossary.html) | Python glossary. |
+| [Visual compiler](https://pythontutor.com/python-compiler.html#mode=edit) | Online Python compiler with step-by-step visualisation of the code. Useful when learning to understand code. |
