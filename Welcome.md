@@ -15,9 +15,20 @@ Before we start the Summer School, we kindly ask you to carry out the following 
 If you run into any problems during the installation, please try to resolve them by yourself first. The internet is full of useful information, and finding solutions to technical problems is a valuable skill for a (soon-to-be) programmer. Of course we are happy to help you if you really get stuck, don't hesitate to send us an email in that case. 
 
 ### Anaconda Navigator
-Our programming environment of choice is Anaconda Navigator. It offers a variety of programming interfaces for Python, as well as pre-installed libraries for scientific computing. You can download Anaconda from the following link: https://www.anaconda.com/download/success. It works on Windows, macOS, and Linux, so choose your operating system and follow the instructions on the website to install Anaconda on your computer. Once Anaconda is installed, there is no need to install Python separately, as Anaconda comes with its own Python distribution. 
+Our programming environment of choice is Anaconda Navigator. It offers a variety of programming interfaces for Python, as well as pre-installed libraries for scientific computing. You can download Anaconda [here](https://www.anaconda.com/download/success). It works on Windows, macOS, and Linux, so choose your operating system and follow the instructions of the installer. There's no need to change any of the default settings. Installation can take several minutes. 
+
+Note that the entire program takes up about 9GB of disk space. If this is not an option for you, you can also install Miniconda, which is a more compact version of Anaconda with fewer preinstalled packages. You can download Miniconda [here](https://docs.conda.io/en/latest/miniconda.html). Just find your operating system in the table and follow the instructions. 
+
+Once Anaconda is installed, you don't need to install the Python programming language separately, as Anaconda comes with its own Python distribution. 
+
 
 ### Jupyter Lab
 We will use Jupyter Lab as our programming environment. Jupyter Lab is a web-based interactive development environment for Python. You can install Jupyter Lab by opening the Anaconda Navigator and clicking on the Jupyter Lab icon. Once Jupyter Lab is installed, you can open it by clicking on the Launch button. Alternatively, you can open Jupyter Lab from your Terminal (Mac/Linux) or Command Prompt (Windows) by typing `jupyter-lab`. 
 
-In the first lesson of the preparatory materials, we will explain how to use Jupyter Lab. So make yourself some tea, coffee, or your favorite beverage, and head over to the `preparatory_code` folder to start the first lesson.
+You can start Jupyter lab by typing `jupyter lab` in your terminal, or by clicking on the Jupyter Lab icon in Anaconda Navigator. This will open a new tab in your browser, where you can navigate to the folder where you saved this notebook. It's good practice to create a new folder for each course you take, to keep your files organized. 
+
+When you open Jupyter Lab, you should see panel to the left with a file browser, a central panel with the content of the file you are currently working on, and a right panel with the Anaconda Assistant. You can close this panel by clicking on the sparkle icon in the top right corner. 
+
+Navigate to the folder where you saved the preparation materials for the Summer School, and open it by double-clicking on it. You should see a list of files, including this file.
+
+If you can succesfully open the file `1a_getting_started.ipynb` in Jupyter Lab, you are ready to start the exercises. Have fun coding! 
