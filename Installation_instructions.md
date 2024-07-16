@@ -16,8 +16,7 @@ If you run into any problems during the installation, please try to resolve them
 Our programming environment of choice is Anaconda Navigator. It offers a variety of programming interfaces for Python, as well as pre-installed libraries for scientific computing. You can download Anaconda from the following link: https://www.anaconda.com/download/success. It works on Windows, macOS, and Linux, so choose your operating system and follow the instructions on the website to install Anaconda on your computer.
 
 ### Jupyter Lab
-We will use Jupyter Lab as our programming environment. Jupyter Lab is a web-based interactive development environment for Jupyter notebooks, code, and data. You can install Jupyter Lab by opening the Anaconda Navigator and clicking on the Jupyter Lab icon. Once Jupyter Lab is installed, you can open it by clicking on the Launch button. Alternatively, you can open Jupyter Lab from your Terminal (Mac/Linux) or Command Prompt (Windows) by typing `jupyter lab`. 
+We will use Jupyter Lab as our programming environment. Jupyter Lab is a web-based interactive development environment for Python. You can install Jupyter Lab by opening the Anaconda Navigator and clicking on the Jupyter Lab icon. Once Jupyter Lab is installed, you can open it by clicking on the Launch button. Alternatively, you can open Jupyter Lab from your Terminal (Mac/Linux) or Command Prompt (Windows) by typing `jupyter lab`. 
 
-In the first 
-
+In the first lesson of the preparatory materials, we will explain how to use Jupyter Lab. So make yourself some tea, coffee, or your favorite beverage, and head over to the `preparatory_code` folder to start the first lesson. 
 
