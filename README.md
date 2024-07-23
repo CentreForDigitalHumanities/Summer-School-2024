@@ -4,7 +4,7 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 
 
 ## Program outline
-- Basics of programming
+### Basics of programming
   -  Logic
   -  Syntax
   -  File types
@@ -13,16 +13,16 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   -  StackOverflow
   -  AI assistance
   -  Git
-- Data collection
+### Data collection
   - X
   - Y
   - Z 
-- [Text analysis](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/docs/outline/text_analysis.ipynb)
+### Text analysis
+[Text analysis](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/docs/outline/text_analysis.ipynb)
   - Natural Language Processing (NLP)
   - ...
   - tf-idf
-
-- Data visualization
+### Data visualization
   - A
   - B
   - C
