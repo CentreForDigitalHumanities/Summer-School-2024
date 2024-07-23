@@ -1,8 +1,7 @@
-## Welcome!  
+## Preparation
 Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices](https://utrechtsummerschool.nl/courses/humanities/exploring-culture-through-data-digital-methods-data-practices) Summer School 2024! We are excited to offer an introduction into digital methods and data practices to analyze and understand culture. In this folder, you find all the materials that will prepare you for the Summer School. 
 
-## Preparation
-There are two main parts to the preparation materials
+There are two main parts to the preparation materials:
 - [Installation](#1-installation)
 - [Excercises](#2-python-programming-exercises)
 
@@ -15,26 +14,26 @@ We recommend using [Anaconda Navigator](#anaconda-navigator) and [Jupyter Lab](#
 If you run into any problems during the installation, please try to resolve them by yourself first. The internet is full of useful information, and finding solutions to technical problems is a valuable skill for a (soon-to-be) programmer. Of course we are happy to help you if you really get stuck, don't hesitate to send us an email in that case. 
 
 #### Anaconda Navigator
-Our programming environment of choice is Anaconda Navigator. It offers a variety of programming interfaces for Python, as well as pre-installed libraries for scientific computing. Please follow the steps below.
+Our programming environment of choice is `Anaconda Navigator`. It offers a variety of programming interfaces for `Python`, as well as pre-installed libraries for scientific computing. Please follow the steps below.
 
 1) Download Anaconda Navigator. \
-You can download it [here](https://www.anaconda.com/download/success). It works on Windows, macOS, and Linux, so choose your operating system and click the download button.
+You can download it [here](https://www.anaconda.com/download/success). It works on Windows, macOS, and Linux, so choose your operating system and click the `Download` button.
 2) Install Anaconda Navigator. \
 Follow the instructions of the installer. There's no need to change any of the default settings (but you can if you want). Installation can take several minutes. 
 
-Note that the entire program takes up about 9GB of disk space. If this is not an option for you, you can also install Miniconda, which is a more compact version of Anaconda with fewer preinstalled packages. You can download Miniconda [here](https://docs.conda.io/en/latest/miniconda.html). Just find your operating system in the table and follow the instructions. 
+Note that the entire program takes up about 9GB of disk space. If this is not an option for you, you can also install `Miniconda`, which is a more compact version of Anaconda with fewer preinstalled packages. You can download Miniconda [here](https://docs.conda.io/en/latest/miniconda.html). Just find your operating system in the table and follow the instructions. 
 
 Once Anaconda is installed, you don't need to install the Python programming language separately, as Anaconda comes with its own Python distribution. 
 
 #### Jupyter Lab
-We will use Jupyter Lab as our programming environment. Jupyter Lab is a web-based interactive development environment for Python. You can install Jupyter Lab by opening the Anaconda Navigator and clicking on the Jupyter Lab icon. Once Jupyter Lab is installed, you can open it by clicking on the Launch button. 
+We will use `Jupyter Lab` as our programming environment. Jupyter Lab is a web-based interactive development environment for Python. You can install Jupyter Lab by opening the Anaconda Navigator and clicking on the Jupyter Lab icon. Once Jupyter Lab is installed, you can open it by clicking on the `Launch` button. 
 
 Let's check if everything is working as intended by following these steps: 
 1) Open Anaconda Navigator. \
 Locate the program on your computer and open it.
 
-2) Find Jupyter Lab, and click on the Launch button.\
-Note that it's possible that you need to install Jupyter Lab first. If that's the case, you can do so by clicking on the Install button. 
+2) Find Jupyter Lab, and click on the `Launch` button.\
+Note that it's possible that you need to install Jupyter Lab first. If that's the case, you can do so by clicking on the `Install` button. 
 
 When you open Jupyter Lab, you should see panel to the left with a file browser, a central panel with the content of the file you are currently working on, and a right panel with the Anaconda Assistant. You can close the assisstant panel by clicking on the sparkle icon in the top right corner. 
 
