@@ -2,7 +2,7 @@
 Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices](https://utrechtsummerschool.nl/courses/humanities/exploring-culture-through-data-digital-methods-data-practices) Summer School 2024! We are excited to offer an introduction into digital methods and data practices to analyze and understand culture. In this folder, you find all the materials that will prepare you for the Summer School. 
 
 There are two main parts to the preparation materials:
-- Installation instructions. You can find them below. We recommend using [Anaconda Navigator](https://github.com/CentreForDigitalHumanities/Summer-School-2024/Welcome.md#anaconda-navigator) and [Jupyter Lab](https://github.com/CentreForDigitalHumanities/Summer-School-2024/Welcome.md#jupyter-lab) for the Summer School. If you have another preferred programming environment, you are welcome to use that as well, but we can not ensure that we will have the space and time to assist you with technical issues specific to your environment. 
+- Installation instructions. You can find them below. We recommend using [Anaconda Navigator](#anaconda-navigator) and [Jupyter Lab](#jupyter-lab) for the Summer School. If you have another preferred programming environment, you are welcome to use that as well, but we can not ensure that we will have the space and time to assist you with technical issues specific to your environment. 
 
 - Python Programming exercises. We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, they might take you 1 to 4 hours to complete. 
 
