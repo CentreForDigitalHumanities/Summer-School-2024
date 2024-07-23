@@ -44,7 +44,7 @@ You can navigate to the folder where you saved the preparation materials for the
 
 #### Github
 During the Summer School, we will use Github to share materials and code. Github is a coding essential, and it's a good idea to get familiar with it.
-1) Create a free account on [Github](https://github.com/). 
+1) [Create a free account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) on [Github](https://github.com/). 
 2) Download git. 
     - Windows users can download git [here](https://git-scm.com/download/win).
     - Mac users can download git [here](https://git-scm.com/download/mac). Note that you have to install the Homebrew package manager first (instructions included on the download page). 
