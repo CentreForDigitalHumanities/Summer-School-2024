@@ -18,9 +18,10 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   - Y
   - Z 
 - [Text analysis](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/docs/outline/text_analysis.ipynb)
-  - 1
-  - 2
-  - 3 
+  - Natural Language Processing (NLP)
+  - ...
+  - tf-idf
+
 - Data visualization
   - A
   - B
