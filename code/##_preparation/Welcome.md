@@ -42,7 +42,7 @@ It's good practice to create a new folder for each course you take to keep your 
 3) In Jupyter Lab, open the file `1a_getting_started.ipynb`. \
 You can navigate to the folder where you saved the preparation materials for the Summer School, and open it by double-clicking on it. You should see a list of files, including this file. Open the first file by double-clicking on it. 
 
-#### Github
+#### GitHub
 During the Summer School, we will use `GitHub` to share materials and code. GitHub is a coding essential, and it's a good idea to get familiar with it.
 1) [Create a free account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) on [Github](https://github.com/). 
 2) Download git. 
