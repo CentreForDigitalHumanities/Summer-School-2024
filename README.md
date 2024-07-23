@@ -24,7 +24,10 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 - Data visualization
   - A
   - B
-  - C 
+  - C
+  -
+  -
+  -
 
-## To do (organization)
-See: [Summer School 2024 Project](https://github.com/orgs/CentreForDigitalHumanities/projects/11)
+Organized by:
+<img src="https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/img/Data-School.svg" width="400px">
