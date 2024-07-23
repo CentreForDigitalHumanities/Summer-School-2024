@@ -13,10 +13,10 @@ You can find them below. We recommend using [Anaconda Navigator](#anaconda-navig
 We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, they might take you 1 to 4 hours to complete. 
 
 We advise you to start well in advance so that you have enough time to complete the exercises (1a-d), let them sink in, and ask us any questions or issues you might have.
-- [1a_getting_started.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1a_getting_started.ipynb)
-- [1b_variables_types.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1b_variables_types.ipynb)
-- [1c_containers.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1c_containers.ipynb)
-- [1d_loops.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1d_loops.ipynb)
+- `[1a_getting_started.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1a_getting_started.ipynb)`
+- `[1b_variables_types.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1b_variables_types.ipynb)`
+- `[1c_containers.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1c_containers.ipynb)`
+- `[1d_loops.ipynb](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/%23%23_preparation/1d_loops.ipynb)`
 
 ## Installation instructions 
 Before we start the Summer School, we kindly ask you to carry out the following installation instructions to ensure that you have all the necessary software installed on your computer. This will ensure a smooth start of the Summer School. 
