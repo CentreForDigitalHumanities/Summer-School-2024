@@ -57,7 +57,7 @@ If this all works, you are ready to start working on the materials. Have fun cod
 
 ### 2. Python exercises 🐍🧑‍💻
 
-We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, they might take you 1 to 4 hours to complete. 
+We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, in total they might take you 1 to 4 hours to complete. 
 
 We advise you to start well in advance so that you have enough time to complete the exercises (1a-d) and let them sink in.
 - `1a_getting_started.ipynb`
