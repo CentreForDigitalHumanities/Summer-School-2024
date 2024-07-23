@@ -17,7 +17,7 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   - X
   - Y
   - Z 
-- Text analysis
+- [Text analysis](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/docs/outline/text_analysis.ipynb)
   - 1
   - 2
   - 3 
