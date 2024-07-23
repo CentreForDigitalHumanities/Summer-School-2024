@@ -11,6 +11,7 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   -  Documentation
   -  StackOverflow
   -  AI assistance
+  -  Git
 - Data collection
   - X
   - Y
