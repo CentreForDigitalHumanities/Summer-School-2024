@@ -30,4 +30,4 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 ## Credits & License
 This summer school was created by [Data School](https://dataschool.nl/) at [Utrecht University](https://www.uu.nl).
 
-<img src="https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/img/Data-School.svg" width="400px">
+<img src="https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/img/UU_Data%20School_logo_EN.svg" width="400px">
