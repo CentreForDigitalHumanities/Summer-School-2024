@@ -11,7 +11,7 @@ Before we start the Summer School, we kindly ask you to carry out the following 
 
 We recommend using [Anaconda Navigator](#anaconda-navigator) and [Jupyter Lab](#jupyter-lab) for the Summer School. If you have another preferred programming environment, you are welcome to use that as well, but we can not ensure that we will have the space and time to assist you with technical issues specific to your environment. 
 
-If you run into any problems during the installation, please try to resolve them by yourself first. The internet is full of useful information, and finding solutions to technical problems is a valuable skill for a (soon-to-be) programmer. Of course we are happy to help you if you really get stuck, don't hesitate to send us an email in that case. 
+If you run into any problems during the installation, please try to resolve them by yourself first. The internet is full of useful information, and finding solutions to technical problems is a valuable skill for a (soon-to-be) programmer. Of course we are happy to help you if you really get stuck, don't hesitate to send us an email in that case (see [Questions](#Questions)). 
 
 #### Anaconda Navigator
 Our programming environment of choice is `Anaconda Navigator`. It offers a variety of programming interfaces for `Python`, as well as pre-installed libraries for scientific computing. Please follow the steps below.
@@ -57,8 +57,11 @@ If this all works, you are ready to start working on the materials. Have fun cod
 
 We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, they might take you 1 to 4 hours to complete. 
 
-We advise you to start well in advance so that you have enough time to complete the exercises (1a-d), let them sink in, and ask us any questions or issues you might have.
+We advise you to start well in advance so that you have enough time to complete the exercises (1a-d) and let them sink in.
 - `1a_getting_started.ipynb`
 - `1b_variables_types.ipynb`
 - `1c_containers.ipynb`
 - `1d_loops.ipynb`
+
+## Questions
+If you have any questions concerning the installation, please feel free to contact us via [dataschool@uu.nl](mailto:dataschool@uu.nl) or via the `General` channel in the Microsoft Teams environment. Questions concerning programming will be answered during the week of the Summer School. 
