@@ -30,4 +30,5 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   -
 
 Organized by:
+
 <img src="https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/img/Data-School.svg" width="400px">
