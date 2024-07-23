@@ -47,7 +47,8 @@ During the Summer School, we will use Github to share materials and code. Github
 1) [Create a free account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) on [Github](https://github.com/). 
 2) Download git. 
     - Windows users can download git [here](https://git-scm.com/download/win).
-    - Mac users can download git [here](https://git-scm.com/download/mac). Note that you have to install the Homebrew package manager first (instructions included on the download page). 
+    - Mac users can download git [here](https://git-scm.com/download/mac). Note that you have to install the Homebrew package manager first (instructions included on the download page).
+    - Linux users can download git [here](https://git-scm.com/download/linux).
     
 We will explain how to use Github during the Summer School, so don't worry if you are not familiar with it yet. Just make sure you have installed git and created an account. 
 
