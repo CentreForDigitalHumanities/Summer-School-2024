@@ -53,7 +53,7 @@ We will explain how to use Github during the Summer School, so don't worry if yo
 
 If this all works, you are ready to start working on the materials. Have fun coding! 
 
-### 2. Python Programming exercises
+### 2. Python exercises
 
 We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, they might take you 1 to 4 hours to complete. 
 
