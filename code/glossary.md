@@ -1,4 +1,0 @@
-## Glossary
-List of terms
-
-
