@@ -1,7 +1,11 @@
-song, artist, length, language
-BIRDS OF A FEATHER, Billie Eilish, 3:30, English
-Espresso, Sabrina Carpenter, 2:55, English
-Not Like Us, Kendrick Lamar, 4:34, English
-Si Antes Te Hubiera Conocido, KAROL G, 3:16, Spanish
-HOT TO GO!, Chappel Roan, 3:05, English 
-Ik Wil Dansen, Froukje, 3:14, Dutch 
+song,artist,length,language,rating
+BIRDS OF A FEATHER,Billie Eilish,210,English,6.5
+Espresso,Sabrina Carpenter,175,English,7.2
+Not Like Us,Kendrick Lamar,274,English,8.0
+Si Antes Te Hubiera Conocido,KAROL G,198,Spanish,5.3
+Ik Wil Dansen,Froukje,194,Dutch,9.6
+Too Sweet,Hozier,251,English,3.3
+Europapa,Joost,160,Dutch,4.7
+Who,Jimin,170,English,
+Supernova,aespa,179,Korean,7.6
+LUNCH,Billie Eilish,180,English,8.6
