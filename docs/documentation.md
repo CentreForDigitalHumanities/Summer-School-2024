@@ -2,7 +2,7 @@
 - [Anaconda](https://docs.anaconda.com/)
     - [Navigator](https://docs.anaconda.com/navigator/)
 - [Jupyter](https://docs.jupyter.org/en/latest/)
-    - [Glossary]([url](https://docs.jupyter.org/en/latest/glossary.html)) 
+    - [Glossary](https://docs.jupyter.org/en/latest/glossary.html)
 - [Python](https://docs.python.org/3/)
     - [Glossary](https://docs.python.org/3/glossary.html)
     - [pandas](https://pandas.pydata.org/); a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
