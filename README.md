@@ -4,13 +4,14 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 
 ## Program outline
 ### Basics of programming
-  -  Logic
-  -  Syntax
-  -  File types
-  -  [Pandas](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/day_2/2a_pandas.ipynb)
-  -  Documentation
-  -  StackOverflow
-  -  AI assistance
+  - Recap of preparation materials 
+  - Introduction to file types
+  - Exercises 
+  - Introfuction to [Pandas](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/day_2/2a_pandas.ipynb)
+  - How to troubleshoot: 
+    -  Documentation
+    -  StackOverflow
+    -  AI assistance
   -  Git
 ### Data collection
   - X
