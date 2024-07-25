@@ -6,8 +6,8 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 ### Basics of programming
   - Recap of preparation materials 
   - Introduction to file types
-  - Exercises 
   - Introfuction to [Pandas](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/code/day_2/2a_pandas.ipynb)
+  - Exercises 
   - How to troubleshoot: 
     -  Documentation
     -  StackOverflow
