@@ -14,11 +14,11 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   - Exercises 
   -  Git
 ### Data collection
-  - [Introduction and methods](code\03_data_collection\3a_introduction_and_methods.ipynb)
-  - [APIs](code\03_data_collection\3b_apis.ipynb)
-  - [Basics of web scraping](code\03_data_collection\3c_basics.ipynb)
-  - [Advanced web scraping](code\03_data_collection\3d_advanced.ipynb)
-  - [End](code\03_data_collection\3f_end.ipynb) <-- RENAME
+  - [Introduction and methods](code/03_data_collection/3a_introduction_and_methods.ipynb)
+  - [APIs](code/03_data_collection/3b_apis.ipynb)
+  - [Basics of web scraping](code/03_data_collection/3c_basics.ipynb)
+  - [Advanced web scraping](code/03_data_collection/3d_advanced.ipynb)
+  - [End](code/03_data_collection/3f_end.ipynb) <-- RENAME
 
 ### Text analysis
 [Text analysis](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/docs/outline/text_analysis.ipynb)
