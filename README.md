@@ -7,6 +7,11 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 
 ## Programming in Python
 ### 1. Preparation
+- [Getting started with Python](code/01_preparation/1a_getting_started.ipynb)
+- [Variables and Data Types](code/01_preparation/1b_variables_types.ipynb)
+- [Containers](code/01_preparation/1c_containers.ipynb)
+- [Loops](code/01_preparation/1d_loops.ipynb)
+
 ### 2. Basics of programming
   - Recap of preparation materials 
   - Introduction to file types
