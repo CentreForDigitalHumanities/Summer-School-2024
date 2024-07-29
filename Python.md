@@ -40,4 +40,4 @@ ___________
 ___________
 
 Topics for toy examples: 
-- Social media comments analysis to understand public discourse 
+- Social media comments analysis to understand public discourse
