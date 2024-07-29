@@ -1,11 +1,10 @@
-_____
+> [!NOTE]
+> MERGE WITH README.md
 
 Welcome to the crash-course in Python as part of the Summer School "Exploring Culture Through Data". This course is designed to provide you with a basic understanding of Python programming and how to use it to analyze and visualize data. Below is an overview of the topics we will cover during the workshop.
 
-_______
-
 ## Preparation 
-- Getting started 
+- [Getting started](code\01_preparation\1a_getting_started.ipynb) 
     - What is Python? 
     - Executing code 
 - Values and expressions 

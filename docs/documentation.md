@@ -10,7 +10,7 @@
     - [seaborn](https://seaborn.pydata.org/); a data visualization library based on [matplotlib](https://matplotlib.org/).
 
 ## Recommended materials
-
+- 
 
 ## Inspiration
 In developing the materials for the Summer School Exploring Culture through Data, inspiration was drawn from the [Educational materials](https://github.com/CentreForDigitalHumanities/Education) by the [Centre for Digital Humanities](https://cdh.uu.nl/), as well as from:

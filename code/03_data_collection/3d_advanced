@@ -1,0 +1,11 @@
+## 5. Advanced Web Scraping Techniques
+INSERT [Exercises](https://github.com/CentreForDigitalHumanities/workshop-web-scraping/tree/main/scrapethissite.com/exercises)
+
+### 5.1 Handling Dynamic Content
+ - Introduction to Selenium for web scraping
+ - Automating web interactions
+
+### 5.2 Scrapy Framework
+ - Overview of Scrapy
+ - Creating and running spiders
+ - Extracting and storing data

@@ -14,7 +14,9 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
   - Exercises 
   -  Git
 ### Data collection
-  - X
+  - Introduction and methods
+  - APIs
+  - Basic
   - Y
   - Z 
 ### Text analysis
