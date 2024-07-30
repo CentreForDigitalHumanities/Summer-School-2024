@@ -5,6 +5,10 @@
     - [Navigator](https://docs.anaconda.com/navigator/)
     - [Free Learning](https://freelearning.anaconda.cloud/)
 
+## IPython
+[Documentation](https://ipython.readthedocs.io/en/stable/index.html)
+- [Magics](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+
 ## Jupyter
 [Documentation](https://docs.jupyter.org/en/latest/)
 - [Glossary](https://docs.jupyter.org/en/latest/glossary.html)
