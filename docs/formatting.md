@@ -21,25 +21,16 @@ Abbreviations can be confusing unless they are well-known within the organizatio
    - `web-application` is clearer than `web-app`
    - `user-interface` is clearer than `ui`
 
-## Folder
-### Structure
-.
-/code/
-/data/
-/docs/
-/img/
-### Names
+## Folders and Files
+For an overview of all content see [Table of Contents](docs/table-of-contents.md)
 
-## Files
 ### Structure
-- See [Table of Contents](docs/table-of-contents.ipynb)
-### Names
-- Lowercase
-- Hyphens
-### Types
-- `.ipynb` for `code`
-- `.md` for documentation
-
+- `code` in `.ipynb`.
+- `data` in `.xlsx` and `.csv`.
+- `docs`
+    - Documentation in `.md`.
+    - Slides and schedule in `.pdf`
+    - Images in `.png`
 
 ## Alert boxes
 Check whether something alike is possible in `.ipynb` files to work in Notebooks
