@@ -21,7 +21,6 @@ Abbreviations can be confusing unless they are well-known within the organizatio
    - `web-application` is clearer than `web-app`
    - `user-interface` is clearer than `ui`
 
-
 ## Folder
 ### Structure
 .
@@ -43,7 +42,7 @@ Abbreviations can be confusing unless they are well-known within the organizatio
 
 
 ## Alert boxes
-Check whether something alike is possible in .ipynb files to work in Notebooks
+Check whether something alike is possible in `.ipynb` files to work in Notebooks
 
 > [!NOTE]\
 > Highlights information that users should take into account, even when skimming.
