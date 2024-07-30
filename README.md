@@ -15,6 +15,7 @@ For more details see the [preparation instructions](code/01_preparation/Welcome.
 - [Table of contents](docs/table-of-contents.ipynb)
 - <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d"><img src="https://teams.microsoft.com/favicon.ico" width="16px"> Microsoft Teams class</a>
 - <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616"><img src="https://www.linkedin.com/favicon.ico" width="16px"> LinkedIn event</a>
+- [Documentation](docs/documentation.md)
 
 ## Usage
 See git instructions?
