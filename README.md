@@ -4,8 +4,11 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 [![Preview of schedule](docs/schedule.png)](docs/schedule.pdf)
 
 ## Prerequisites
-- 
-- 
+For the usage of the Jupyter Notebooks (see `code` folder) the following software is required
+- [Anaconda Navigator](https://www.anaconda.com/download/success) or [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/)
+- [Jupyter Lab](https://jupyter.org/)
+
+For more details see the [preparation instructions](code/01_preparation/Welcome.md).
 
 ## Contents
 - [Schedule](docs/schedule.pdf)
@@ -14,6 +17,7 @@ Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices
 - <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616"><img src="https://www.linkedin.com/favicon.ico" width="16px"> LinkedIn event</a>
 
 ## Usage
+See git instructions?
 
 ## License
 This work is licensed under the [MIT License](LICENSE).
