@@ -2,12 +2,23 @@
 
 Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices](https://utrechtsummerschool.nl/courses/humanities/exploring-culture-through-data-digital-methods-data-practices) Summer School 2024! We are excited to offer an in-depth exploration of using digital methods and data practices to analyze and understand culture. Join us to learn how to leverage data to gain insights into various cultural phenomena. Whether you are new to programming or an experienced data analyst, we have something for everyone.
 
-## Week schedule
-[![Preview of the program](docs/program/Program2024.png)](docs/program/Program2024.pdf)
-  
-## Credits & License
-This summer school was created by [Data School](https://dataschool.nl/) at [Utrecht University](https://www.uu.nl).
+## Prerequisites
+- 
+- 
+
+## Contents
+- [Schedule](docs/schedule.pdf)
+- <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d"><img src="https://teams.microsoft.com/favicon.ico" width="16px"> Microsoft Teams class</a>
+- <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616"><img src="https://www.linkedin.com/favicon.ico" width="16px"> LinkedIn event</a>
+
+## Usage
+
+## License
+This work is licensed under the [MIT License](LICENSE).
+
+## Credits
+This summer school was created by [Data School](https://dataschool.nl/) at [Utrecht University](https://www.uu.nl). 
 
 Inspiration was drawn from the [Educational materials](https://github.com/CentreForDigitalHumanities/Education) by the [Centre for Digital Humanities](https://github.com/CentreForDigitalHumanities/).
 
-<a href="https://dataschool.nl" target="_blank"><img src="https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/img/UU_Data%20School_logo_EN.svg" width="400px"></a>
+<a href="https://dataschool.nl" target="_blank"><img src="img/UU_Data-School_logo_EN.png" width="400px"></a>

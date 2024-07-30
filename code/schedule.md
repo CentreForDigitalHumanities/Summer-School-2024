@@ -1,0 +1,1 @@
+[![Preview of schedule](docs/schedule.png)](docs/schedule.pdf)
