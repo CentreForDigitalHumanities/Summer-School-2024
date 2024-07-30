@@ -37,6 +37,9 @@ Abbreviations can be confusing unless they are well-known within the organizatio
 ### Names
 - Lowercase
 - Hyphens
+### Types
+- `.ipynb` for `code`
+- `.md` for documentation
 
 
 ## Alert boxes
