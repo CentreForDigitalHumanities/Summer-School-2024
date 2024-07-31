@@ -14,12 +14,9 @@ To get started with the Jupyter Notebooks from this GitHub repository, follow th
    - Right-click and select "Extract All" or use a tool like WinRAR or 7-Zip to extract the files.
 
 ### Opening Jupyter Notebooks
-
-1. **Install Jupyter Notebook**:
-   - If you don't have Jupyter Notebook installed, you can install it using `pip install notebook`.
-2. **Navigate to the Repository Folder**:
+1. **Navigate to the Repository Folder**:
    - Use the terminal to navigate to the cloned or extracted repository directory.
-3. **Launch Jupyter Notebook**:
+2. **Launch Jupyter Notebook**:
    - Run the command `jupyter notebook` to start the Jupyter Notebook server.
    - A web browser should open displaying the Notebook files. Click on a `.ipynb` file to open and edit the notebook.
 
