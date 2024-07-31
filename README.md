@@ -16,11 +16,7 @@ For more details see the [preparation instructions](code/01_preparation/Welcome.
 - <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d">Microsoft Teams class <img src="https://teams.microsoft.com/favicon.ico" width="16px"></a>
 - <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616">LinkedIn event <img src="https://www.linkedin.com/favicon.ico" width="16px"></a>
 - [Documentation](docs/documentation.md)
-
-## Usage
-See git instructions?
-> [!WARNING]\
-> Work in progress
+- [Usage](docs/usage.md)
 
 ## License
 This work is licensed under the [MIT License](LICENSE).
