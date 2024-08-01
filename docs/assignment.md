@@ -8,7 +8,7 @@ The goal of this assignment is to apply the concepts and tools learned in this s
 ## Instructions
 1. **Choose a topic**: The first step is to choose a topic that interests you. This can be anything, as long as it is feasible to collect data on it. See the section below for some ideas. 
 
-This step also involves defining a research question that you want to answer with your data. The question may change and evolve as you work on the project, but try to have a clear idea of what you want to achieve from the beginning. 
+    This step also involves defining a research question that you want to answer with your data. The question may change and evolve as you work on the project, but try to have a clear idea of what you want to achieve from the beginning. 
 
 2. **Collect data**: Once you have chosen a topic, you will need to collect data. This can be done by scraping websites, using APIs, or by using existing datasets. 
 
