@@ -6,7 +6,7 @@ This document describes the assignment for the group project. It will be carried
 The goal of this assignment is to apply the concepts and tools learned in this summer school to a topic of your choice. You will work together to collect, analyze, and visualize data, and present your results to the group. 
 
 ## Instructions
-1. **Choose a topic**: The first step is to choose a topic that interests you. This can be anything, as long as it is feasible to collect data on it. See the section below for some ideas. 
+1. **Choose a topic**: The first step is to choose a topic that interests you. This can be anything, as long as it is feasible to collect data on it. See the section [Ideas for topics](#ideas-for-topics) for some ideas. 
 
     This step also involves defining a research question that you want to answer with your data. The question may change and evolve as you work on the project, but try to have a clear idea of what you want to achieve from the beginning. 
 
@@ -21,3 +21,4 @@ There are two deliverables:
 - A Jupyter notebook with the Python code used to collect and analyze the data. Make sure to include comments and explanations in the notebook. 
 - A set of slides for the presentation. You can use any tool you like to create the slides, but make sure they are clear and easy to read. 
 
+## Ideas for topics
