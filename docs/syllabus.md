@@ -12,7 +12,7 @@ On the first day, we will have time to get to know each other and our background
 ## Day 2: Python
 The second day focuses on programming in Python. There will be two blocks that focus on programming, and one guest lecture on Data Journalism. 
 
-The first programming block will start with a recap of the preparation materials, in which we walk through the notebooks and answer any questions you may have. It is important that you understand the basics of Python programming before we move on to the next steps. In a demonstration, we will inform you about some essential terminology and syntax. 
+The first programming block will start with a recap of the preparation materials, in which we walk through the notebooks and answer any questions you may have. It is important that you understand the basics of Python programming before we move on to the next steps. In a demonstration, we will inform you about some essential terminology and syntax, as well as strategies for troubleshooting.  
 
 The second programming block will introduce you to Pandas, a powerful tool for data manipulation and analysis. We will show you how to read and explore your data in Python, and how to perform basic manipulations. You apply your new skills in a hands-on exercise.  
 
@@ -21,26 +21,13 @@ Wednesday is data collection day. The morning session will focus on the concept 
 
 The afternoon starts with a lecture on the ethics of data collection, followed by a hands-on session on webscraping. We will show you how to collect data from websites, and how to store it in a structured format. If there is time left, you can start collecting data for your group assignment.
 
-
-
 ## Day 4: Data analysis & visualization
-- Basic stats 
-    - Counts of column values 
-    - Visualization 
-- Word clouds 
-    - Tokenization 
-    - Stop word filtering 
-    - Visualization
-- Word representation
-    - Bag of Words
-    - Word embeddings 
-- Topic modeling
+Thursday is all about text analysis methods and data visualization. We will start with a lecture on text analysis, followed by a notebook that introduces you to the basics of Natural Language Processing (NLP). We will interactively show you how to work with tokenization, stop word filtering, finding word frequencies, and more. 
 
-Topics for toy examples: 
-- Social media comments analysis to understand public discourse
+In the afternoon, we will focus on data visualization. We will show you how to create visualizations in Python, and how to use them to learn more about your data. You will learn how to create different types of visualizations, and how to customize them to your needs. The day will end with time to work on your group assignment. 
 
 ## Day 5: Group assignment
-
+On the final day, you will have lots of time to work on your group assignment. We will be available to answer any questions you may have, and to help you with any problems you may encounter. In the afternoon, you will present your results to the group. We will end the day with a reflection on the week, and a discussion on how you can apply your new skills in your own research. 
 
 ## Table of Contents
 
