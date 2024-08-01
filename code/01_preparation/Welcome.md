@@ -49,7 +49,7 @@ We will explain how to use GitHub during the Summer School, so don't worry if yo
 
 If this all works, you are ready to start working on the materials. Have fun coding! 
 
-## Python exercises 🐍🧑‍💻
+## Python exercises
 
 We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, in total they might take you 1 to 4 hours to complete. 
 
@@ -59,5 +59,5 @@ We advise you to start well in advance so that you have enough time to complete 
 - `1c_containers.ipynb`
 - `1d_loops.ipynb`
 
-## Questions ❓
+## Questions
 If you have any questions concerning the installation, please feel free to contact us via [dataschool@uu.nl](mailto:dataschool@uu.nl) or via the `General` channel in the [Microsoft Teams environment](https://teams.microsoft.com/l/team/19%3A926dtqI1Uod7YGRNC4KXgFrLUXJ5WFIdYBFSprh_2oU1%40thread.tacv2/conversations?groupId=004ee296-bab8-40e0-a27a-5f5852d3e0ab&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). Questions concerning programming will be answered during the week of the Summer School. 
