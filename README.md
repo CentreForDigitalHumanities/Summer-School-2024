@@ -54,4 +54,4 @@ This summer school was created by [Data School](https://dataschool.nl/) at [Utre
 
 Inspiration was drawn from the [Educational materials](https://github.com/CentreForDigitalHumanities/Education) by the [Centre for Digital Humanities](https://github.com/CentreForDigitalHumanities/).
 
-<a href="https://dataschool.nl" target="_blank"><img src="docs/UU_Data-School_logo_EN.png" width="400px"></a>
+<a href="https://dataschool.nl" target="_blank"><img src="docs/img/UU_Data-School_logo_EN.png" width="400px"></a>
