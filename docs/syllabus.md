@@ -27,7 +27,7 @@ Thursday is all about text analysis methods and data visualization. We will star
 In the afternoon, we will focus on data visualization. We will show you how to create visualizations in Python, and how to use them to learn more about your data. You will learn how to create different types of visualizations, and how to customize them to your needs. The day will end with time to work on your group assignment. 
 
 ## Day 5: Group assignment
-On the final day, you will have lots of time to work on your group assignment. We will be available to answer any questions you may have, and to help you with any problems you may encounter. In the afternoon, you will present your results to the group. We will end the day with a reflection on the week, and a discussion on how you can apply your new skills in your own research. 
+On the final day, you will have lots of time to work on your group assignment. We will be available to answer any questions you may have, and to help you with the problems you may encounter. In the afternoon, you will present your results to the group. We will end the day with a reflection on the week, and a discussion on how you can apply your new skills in your own research. 
 
 ## Table of Contents
 
