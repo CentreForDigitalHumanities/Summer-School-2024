@@ -6,7 +6,7 @@ This course is designed to provide you with the tools and concepts needed to wor
 The preparation materials covered the basics of Python programming. Hopefully you have successfully installed Anaconda on your machine, and completed the exercises. The preparation exercises showed you how to execute code, work with the most common data types, and how to use variables, containers, and loops. On Tuesday, we will review the materials and answer any questions you may have. 
 
 ## Day 1: Data in concept
-On the first day, we will have time to get to know each other and our backgrounds, as well as the outline and goals of this summer school. The concept of data is central to this day, and we will see how different backgrounds may influence the way we look at data. We will also provide examples of our own research and how we have used digital methods in our work. The day will end with a brainstorming session on the group assignment in which you will apply the skills you have learned throughout the week. 
+On the first day, we will have time to get to know each other and our backgrounds, as well as the outline and goals of this summer school. We will also provide examples of our own research and how we have used digital methods in our work. The day will end with a brainstorming session on the group assignment in which you will apply the skills you have learned throughout the week. 
 
 
 ## Day 2: Python
@@ -17,7 +17,9 @@ The first programming block will start with a recap of the preparation materials
 The second programming block will introduce you to Pandas, a powerful tool for data manipulation and analysis. We will show you how to read and explore your data in Python, and how to perform basic manipulations. You apply your new skills in a hands-on exercise.  
 
 ## Day 3: Data collection
-Wednesday is data collection day. We will start with an introduction to the tools and resources available for collecting data. 
+Wednesday is data collection day. The morning session will focus on the concept of data, and we will see how different backgrounds and perspectives may influence the way we look at data. We will also introduce you to some tools and resources available for collecting data.
+
+The afternoon starts with a lecture on the ethics of data collection, followed by a hands-on session on webscraping. We will show you how to collect data from websites, and how to store it in a structured format. If there is time left, you can start collecting data for your group assignment.
 
 
 
