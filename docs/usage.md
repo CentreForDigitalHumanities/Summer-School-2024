@@ -1,3 +1,11 @@
+## Software
+For the usage of the Jupyter Notebooks the following is required:
+- [Anaconda Navigator](https://www.anaconda.com/download/success) or [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/)
+- [Jupyter Lab](https://jupyter.org/)
+
+For more details see the [preparation instructions](code/01_preparation/Welcome.md).
+
+## Jupyter Notebooks
 To get started with the Jupyter Notebooks from this GitHub repository, follow these steps:
 
 ### Option 1: Using Git Clone
