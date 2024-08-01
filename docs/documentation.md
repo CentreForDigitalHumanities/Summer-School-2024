@@ -33,10 +33,10 @@ A web-based interface for creating and sharing documents that combine live code,
 ## Python
 A versatile, high-level programming language used in various fields including data science.
 - [Documentation](https://docs.python.org/3/)
-    - [Glossary](https://docs.python.org/3/glossary.html)
-    - [pandas](https://pandas.pydata.org/); a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
-    - [Plotly](https://plotly.com/python/)
-    - [seaborn](https://seaborn.pydata.org/); a data visualization library based on [matplotlib](https://matplotlib.org/).
+- [Glossary](https://docs.python.org/3/glossary.html)
+- [pandas](https://pandas.pydata.org/); a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
+- [Plotly](https://plotly.com/python/)
+- [seaborn](https://seaborn.pydata.org/); a data visualization library based on [matplotlib](https://matplotlib.org/).
 
 ## Recommended materials
 > [!WARNING]\
