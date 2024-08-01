@@ -12,11 +12,13 @@ On the first day, we will have time to get to know each other and our background
 ## Day 2: Python
 The second day focuses on programming in Python. There will be two blocks that focus on programming, and one guest lecture on Data Journalism. 
 
-The first programming block will start with a recap of the preparation materials, in which we walk through the notebooks and answer any questions you may have. It is important that you understand the basics of Python programming before we move on to the next steps. In a demonstration, we will walk you through some essential terminologies and syntax. 
+The first programming block will start with a recap of the preparation materials, in which we walk through the notebooks and answer any questions you may have. It is important that you understand the basics of Python programming before we move on to the next steps. In a demonstration, we will inform you about some essential terminology and syntax. 
 
-The second programming block will introduce you to the package Pandas, a powerful tool for data manipulation and analysis. We will show you how to read and explore your data, and how to perform basic manipulations. You apply your new skills in a hands-on exercise.  
+The second programming block will introduce you to Pandas, a powerful tool for data manipulation and analysis. We will show you how to read and explore your data in Python, and how to perform basic manipulations. You apply your new skills in a hands-on exercise.  
 
 ## Day 3: Data collection
+Wednesday is data collection day. We will start with an introduction to the tools and resources available for collecting data. 
+
 
 
 ## Day 4: Data analysis & visualization
