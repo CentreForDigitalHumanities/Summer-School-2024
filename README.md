@@ -23,6 +23,7 @@ The content of this repository consists of three parts:
 3. Data that will be used during various assignments, found under `data`.
 4. Documentation on the course of the summer school and materials, and presentations can be found under `docs`.
 
+With that, the total structure looks roughly as follows:
 ```plaintext
 Summer-School-2024/
 ├── code/
