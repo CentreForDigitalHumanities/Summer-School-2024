@@ -34,9 +34,9 @@ A web-based interface for creating and sharing documents that combine live code,
 A versatile, high-level programming language used in various fields including data science.
 - [Documentation](https://docs.python.org/3/)
 - [Glossary](https://docs.python.org/3/glossary.html)
-- [pandas](https://pandas.pydata.org/); a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
-- [Plotly](https://plotly.com/python/)
-- [seaborn](https://seaborn.pydata.org/); a data visualization library based on [matplotlib](https://matplotlib.org/).
+- [pandas](https://pandas.pydata.org/); a powerful Python library for data manipulation and analysis, offering data structures like DataFrames to handle structured data easily.
+- [Plotly](https://plotly.com/python/); an interactive visualization library in Python that allows for the creation of complex plots and charts, including 3D plots and maps, with a focus on interactivity.
+- [seaborn](https://seaborn.pydata.org/); a Python visualization library built on top of [Matplotlib](https://matplotlib.org/), designed for creating informative and attractive statistical graphics with minimal code.
 
 ## Recommended materials
 > [!WARNING]\
