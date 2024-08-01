@@ -1,7 +1,6 @@
 # Documentation
 
-
-## Working with Python
+## Programming in Python
 For proper understanding of the use of the Jupyter Notebooks in the `code` folder and programming in Python, it is useful to distinguish different components involved. Below is a brief explanation, followed by links to documentation on the various components.
 
 **Anaconda** serves as a comprehensive package that includes **Python** (the core language), **Jupyter** (for interactive notebooks), and **IPython** (as the underlying interactive shell in Jupyter), along with other tools and libraries.
