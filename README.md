@@ -7,13 +7,6 @@ For an overview of the week, see the [week schedule](docs/schedule.pdf):
 
 More information about the summer school can be found in the <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d">Microsoft Teams class <img src="https://teams.microsoft.com/favicon.ico" width="16px"></a> and via the <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616">LinkedIn event <img src="https://www.linkedin.com/favicon.ico" width="16px"></a>.
 
-## Prerequisites
-For the usage of the Jupyter Notebooks (see `code` folder) the following software is required:
-- [Anaconda Navigator](https://www.anaconda.com/download/success) or [Miniconda](https://docs.anaconda.com/miniconda/miniconda-install/)
-- [Jupyter Lab](https://jupyter.org/)
-
-For more details see the [preparation instructions](code/01_preparation/Welcome.md).
-
 ## Contents
 The content of this repository consists of three parts:
 1. Jupyter Notebooks, to be found under `code`.
@@ -46,11 +39,8 @@ Summer-School-2024/
 ├── README.md
 ```
 
-## License
-This work is licensed under the [MIT License](LICENSE).
-
-## Credits
-This summer school was created by [Data School](https://dataschool.nl/) at [Utrecht University](https://www.uu.nl). 
+## License & credits
+This work is licensed under the [MIT License](LICENSE). This summer school was created by [Data School](https://dataschool.nl/) at [Utrecht University](https://www.uu.nl). 
 
 Inspiration was drawn from the [Educational materials](https://github.com/CentreForDigitalHumanities/Education) by the [Centre for Digital Humanities](https://github.com/CentreForDigitalHumanities/).
 
