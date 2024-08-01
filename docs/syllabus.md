@@ -18,9 +18,6 @@ This course is designed to provide you with a basic understanding of Python prog
 
 ## Day 1: Data in concept
 
-Day 5: Group assignment
-
-
 ## Day 2: Python
 - Recap of introductory materials
 - Working with a dataset
@@ -45,6 +42,9 @@ Day 5: Group assignment
 
 Topics for toy examples: 
 - Social media comments analysis to understand public discourse
+
+## Day 5: Group assignment
+
 
 ## Table of Contents
 
