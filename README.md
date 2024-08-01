@@ -29,9 +29,9 @@ Summer-School-2024/
 ├── code/
 │   ├── 01_preparation/
 │   ├── 02_basics_of_programming/
-│   ├── 03_data_collection
-│   ├── 04_text_analysis
-│   ├── 05_data_visualization
+│   ├── 03_data_collection/
+│   ├── 04_text_analysis/
+│   ├── 05_data_visualization/
 ├── data/
 │   ├── GDP_by_country.xlsx
 │   ├── songs.csv
