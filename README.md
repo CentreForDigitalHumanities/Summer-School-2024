@@ -10,9 +10,9 @@ More information about the summer school can be found in the <a href="https://te
 ## Contents
 The content of this repository consists of three parts:
 1. Jupyter Notebooks, to be found under `code`.
-  - To get started with these files, see [Usage](docs/usage.md).
-  - For more information the [Documentation](docs/documentation.md).
-  - An overview of all the Notebooks can be found in the [Table of Contents](docs/table-of-contents.md)
+    - To get started with these files, see [Usage](docs/usage.md).
+    - For more information the [Documentation](docs/documentation.md).
+    - An overview of all the Notebooks can be found in the [Table of Contents](docs/table-of-contents.md)
 3. Data that will be used during various assignments, found under `data`.
 4. Documentation on the course of the summer school and materials, and presentations can be found under `docs`.
 
