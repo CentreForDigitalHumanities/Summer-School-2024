@@ -1,28 +1,20 @@
 # Syllabus
 
-This course is designed to provide you with a basic understanding of Python programming and how to use it to analyze and visualize data. Below is an overview of the topics we will cover during the workshop.
+This course is designed to provide you with the tools and concepts needed to work with data in the context of digital humanities research. It consists of lectures, tutorials, demonstrations, exercises, and a group assignment. Below you find a description of the topics that will be covered each day.
 
 ## Preparation 
-- [Getting started](code\01_preparation\1a_getting_started.ipynb) 
-    - What is Python? 
-    - Executing code 
-- Values and expressions 
-    - Basic data types: strings, integers, floats, booleans
-    - Variables 
-- Containers 
-    - Lists
-    - Tuples
-    - Dictionaries 
-- Loops
-- Functions
+The preparation materials covered the basics of Python programming. Hopefully you have successfully installed Anaconda on your machine, and completed the exercises. The preparation exercises showed you how to execute code, work with the most common data types, and how to use variables, containers, and loops. On Tuesday, we will review the materials and answer any questions you may have. 
 
 ## Day 1: Data in concept
+On the first day, we will have time to get to know each other and our backgrounds, as well as the outline and goals of this summer school. The concept of data is central to this day, and we will see how different backgrounds may influence the way we look at data. We will also provide examples of our own research and how we have used digital methods in our work. The day will end with a brainstorming session on the group assignment in which you will apply the skills you have learned throughout the week. 
+
 
 ## Day 2: Python
-- Recap of introductory materials
-- Working with a dataset
-    - Pandas: reading and exploring your data
-    - Basic manipulations: changing column names, removing missing data
+The second day focuses on programming in Python. There will be two blocks that focus on programming, and one guest lecture on Data Journalism. 
+
+The first programming block will start with a recap of the preparation materials, in which we walk through the notebooks and answer any questions you may have. It is important that you understand the basics of Python programming before we move on to the next steps. In a demonstration, we will walk you through some essential terminologies and syntax. 
+
+The second programming block will introduce you to the package Pandas, a powerful tool for data manipulation and analysis. We will show you how to read and explore your data, and how to perform basic manipulations. You apply your new skills in a hands-on exercise.  
 
 ## Day 3: Data collection
 
