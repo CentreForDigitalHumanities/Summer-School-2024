@@ -5,7 +5,7 @@ For an overview of the week, see the [week schedule](docs/schedule.pdf):
 
 [![Preview of schedule](docs/img/schedule.png)](docs/schedule.pdf)
 
-More information about the summer school can be found in the <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d">Microsoft Teams class <img src="https://teams.microsoft.com/favicon.ico" width="16px"></a> and via the <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616">LinkedIn event <img src="https://www.linkedin.com/favicon.ico" width="16px"></a>.
+More information can be found in the <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MyUniqueMeetingID%40thread.tacv2/0?context=%7b%22Tid%22%3a%22yourTenantID%22%2c%22Oid%22%3a%22yourUserID%22%7d">Microsoft Teams class <img src="https://teams.microsoft.com/favicon.ico" width="16px"></a> and via the <a href="https://www.linkedin.com/events/summerschool2024-exploringcultu7214537663469551616">LinkedIn event <img src="https://www.linkedin.com/favicon.ico" width="16px"></a>.
 
 ## Contents
 The content of this repository consists of three parts:
