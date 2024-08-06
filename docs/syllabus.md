@@ -6,7 +6,10 @@ This course is designed to provide you with the tools and concepts needed to wor
 The preparation materials covered the basics of Python programming. Hopefully you have successfully installed Anaconda on your machine, and completed the exercises. The preparation exercises showed you how to execute code, work with the most common data types, and how to use variables, containers, and loops. On Tuesday, we will review the materials and answer any questions you may have. 
 
 ## Day 1: Data in concept
-On the first day, we will have time to get to know each other and our backgrounds, as well as the outline and goals of this summer school. Data School researcher Dennis Nguyen will give a lecture on Thinking in Data. We will also provide examples of our own research and how we have used digital methods in our work. The day will end with a brainstorming session on the group assignment in which you will apply the skills you have learned throughout the week. 
+On the first day, we will have time to get to know each other and our backgrounds, as well as the outline and goals of this summer school. Data School researcher Dennis Nguyen will give a lecture on Thinking in Data. We will also provide examples of our own research and how we have used digital methods in our work. The day will end with a brainstorming session on the group assignment in which you will apply the skills you have learned throughout the week.
+- [Introduction](/docs/slides/01a_Introduction.pdf)
+- [Course Overview](/docs/slides/01b_Course_Overview.pdf)
+- [Dennis Nguyen: Thinking in Data](/docs/slides/Dennis_Nguyen_-_Thinking_in_Data.pdf)
 
 ## Day 2: Python
 The second day focuses on programming in Python. There will be two blocks that focus on programming, with a guest lecture on Data Journalism by digital creator Hay Kranen in between.
@@ -15,7 +18,8 @@ The first programming block will start with a recap of the preparation materials
 
 The second programming block will introduce you to Pandas, a powerful tool for data manipulation and analysis. We will show you how to read and explore your data in Python, and how to perform basic manipulations. You apply your new skills in a hands-on exercise.  
 
-Optionally, you can join us for drinks at the end of the day. The drinks will take place at Café de Bastaard, a cozy café in the city center of Utrecht. 
+Optionally, you can join us for drinks at the end of the day. The drinks will take place at Café de Bastaard, a cozy café in the city center of Utrecht.
+- [Basics of Programming](/docs/slides/02_Basics_of_Programming.pdf)
 
 ## Day 3: Data collection
 Wednesday is data collection day. The morning session will focus on the concept of data, and we will see how different backgrounds and perspectives may influence the way we look at data. We will also introduce you to some tools and resources available for collecting data.
