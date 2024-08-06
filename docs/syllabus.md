@@ -34,7 +34,7 @@ On the final day, there is lots of time to work on your group assignment. We wil
 The summer school takes place in the following two locaions:
 | Data School | Digital Humanities Workspace | 
 | :---: | :---: |
-| [Drift 13](https://www.uu.nl/en/drift-13) (room 0.01), 3512BR Utrecht | Drift 27 (room 0.32), 3512BR Utrecht (Inside the [University Library City Centre](https://www.uu.nl/en/university-library/practical-information/locations/university-library-city-centre)) 
+| [Drift 13](https://www.uu.nl/en/drift-13) (room 0.01), 3512BR Utrecht | Drift 27 (room 0.32), 3512BR Utrecht <p> (Inside the [University Library City Centre](https://www.uu.nl/en/university-library/practical-information/locations/university-library-city-centre)) 
 | [![image](https://github.com/user-attachments/assets/fdeaae79-8c1b-4a00-bf5c-6c30ae40332a)](https://www.openstreetmap.org/node/8040591365) | [![image](https://github.com/user-attachments/assets/9d5aa05a-5942-4af3-8c2c-6ab1c2cb25d0)](https://www.openstreetmap.org/node/11613100737) | 
 
 
