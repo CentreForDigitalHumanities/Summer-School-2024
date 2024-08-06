@@ -25,7 +25,11 @@ Summer-School-2024/
 │   ├── GDP_by_country.xlsx
 │   ├── songs.csv
 └── docs/
-    ├── requirements.txt
+    ├── assignment.ipynb
+    ├── documentation.ipynb
+    ├── instructions.ipynb
+    ├── questions.ipynb
+    ├── syllabus.ipynb
     ├── slides/
     │   ├── presentation.pdf
     └── img/
