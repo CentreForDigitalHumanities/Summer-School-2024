@@ -1,6 +1,5 @@
 # Group assignment 
-
-This document describes the assignment for the group project. It will be carried out in groups of 3 to 4, ideally with varying backgrounds and levels of programming experience. 
+This document describes the assignment for the summer school group project. It will be carried out in groups of 3 to 4, ideally with varying backgrounds and levels of programming experience. 
 
 ## Objective
 The goal of this assignment is to apply the concepts and tools learned in this summer school to a topic of your choice. You will work together to collect, analyze, and visualize data, and present your results to the group. You will demonstrate that you are able to build on the foundations laid out in this summer school to develop and execute a strategy for studying a relevant research topic through the lens of Digital Humanities.

@@ -10,13 +10,12 @@ According to [this post on Quora](https://www.quora.com/Why-does-Python-use-snak
 Overall, using snake_case as a naming convention in Python helps improve code readability, maintainability, and consistency within the Python community.
 
 ## What is a good example of usage for slicing?
-- If you want to grab an ID from a Tweet URL
-
+- If you want to grab an ID from a Tweet URL\
 Example: `1808774347701559757` from https://x.com/data_school/status/1808774347701559757
 
 ## Where do I find documentation on what I can all do with Python?
 
-1. There is full [documentation](docs\documentation.md) on Python, Anaconda, Jupyter Lab and IPython.
+1. There is extensive [documentation](docs\documentation.md) on Python, Anaconda, Jupyter Lab and IPython.
 2. Depending on what you're planning to do, there are third-party libraries to extend Python's capabilities. For example:
     - `NumPy`: Numerical computing.
     - `Pandas`: Data manipulation and analysis.
@@ -24,8 +23,5 @@ Example: `1808774347701559757` from https://x.com/data_school/status/18087743477
     - `requests`/`httpx`: HTTP requests.
     - `BeautifulSoup`: Web scraping.
     - `TensorFlow`/`PyTorch`: Machine learning and deep learning.
-3. If you have a specific idea of what you would like to do, formulate a search query in a form like `How to X in Python?` and put that into a search engine or AI assistant (ChatGPT, GitHub Copilot). Search Usually this will 
- StackOverflow, GitHub
-    - AI / LLM
- 
-3. 
+3. If you have a specific idea of what you would like to do, formulate a search query in a form like `How to X in Python?` and put that into a search engine. It is very likey that you will end up on an online community for developers such as StackOverflow, where solutions are discussed.
+4. AI assistants like ChatGPT and GitHub Copilot can nowadays be really helpful in explaining error messages and alike.
