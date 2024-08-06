@@ -10,11 +10,8 @@ More information can be found in the <a href="https://teams.microsoft.com/l/meet
 ## Contents
 The content of this repository consists of three parts:
 1. Jupyter Notebooks, to be found under `code`.
-    - To get started with these files, see [Usage](docs/usage.md).
-    - For more information the [Documentation](docs/documentation.md).
-    - An overview of all the Notebooks can be found in the [Table of Contents](docs/table-of-contents.md)
 3. Data that will be used during various assignments, found under `data`.
-4. Documentation on the course of the summer school and materials, and presentations can be found under `docs`.
+4. Documentation on the course materials and presentations can be found under `docs`.
 
 With that, the total structure looks roughly as follows:
 ```plaintext
@@ -22,17 +19,15 @@ Summer-School-2024/
 ├── code/
 │   ├── 01_preparation/
 │   ├── 02_basics_of_programming/
-│   ├── 03_data_collection/
-│   ├── 04_text_analysis/
-│   ├── 05_data_visualization/
+│   ├── 03_text_analysis/
+│   ├── 04_data_visualization/
 ├── data/
 │   ├── GDP_by_country.xlsx
 │   ├── songs.csv
 └── docs/
     ├── requirements.txt
     ├── slides/
-    │   ├── presentation.pptx
-    │   └── notes.txt
+    │   ├── presentation.pdf
     └── img/
         ├── logo.png
         └── diagram.png
