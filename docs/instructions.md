@@ -59,10 +59,6 @@ We advise you to start well in advance so that you have enough time to complete 
 - `1b_variables_types.ipynb`
 - `1c_containers.ipynb`
 - `1d_loops.ipynb`
-
-### Questions
-If you have any questions concerning the installation, please feel free to contact us via [dataschool@uu.nl](mailto:dataschool@uu.nl) or via the `General` channel in the [Microsoft Teams environment](https://teams.microsoft.com/l/team/19%3A926dtqI1Uod7YGRNC4KXgFrLUXJ5WFIdYBFSprh_2oU1%40thread.tacv2/conversations?groupId=004ee296-bab8-40e0-a27a-5f5852d3e0ab&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). Questions concerning programming will be answered during the week of the Summer School. 
-
  
 ## Getting the materials
 To get started with the Jupyter Notebooks from this GitHub repository, follow these steps:
@@ -88,3 +84,6 @@ To get started with the Jupyter Notebooks from this GitHub repository, follow th
    - A web browser should open displaying the Notebook files. Click on a `.ipynb` file to open and edit the notebook.
 
 By following these steps, you can easily set up and start working with the Jupyter Notebooks.
+
+### Questions
+If you have any questions concerning the installation, please feel free to contact us via [dataschool@uu.nl](mailto:dataschool@uu.nl) or via the `General` channel in the [Microsoft Teams environment](https://teams.microsoft.com/l/team/19%3A926dtqI1Uod7YGRNC4KXgFrLUXJ5WFIdYBFSprh_2oU1%40thread.tacv2/conversations?groupId=004ee296-bab8-40e0-a27a-5f5852d3e0ab&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). Questions concerning programming will be answered during the week of the Summer School. 
