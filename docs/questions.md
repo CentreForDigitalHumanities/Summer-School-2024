@@ -9,3 +9,9 @@ According to [this post on Quora](https://www.quora.com/Why-does-Python-use-snak
 
 Overall, using snake_case as a naming convention in Python helps improve code readability, maintainability, and consistency within the Python community.
 
+## What is a good example of usage for slicing?
+- If you want to grab an ID from a Tweet URL
+
+Example: `1808774347701559757` from https://x.com/data_school/status/1808774347701559757
+
+## 
