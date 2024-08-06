@@ -1,10 +1,9 @@
-# Preparation
 Welcome to the [Exploring Culture Through Data: Digital Methods & Data Practices](https://utrechtsummerschool.nl/courses/humanities/exploring-culture-through-data-digital-methods-data-practices) Summer School 2024! We are excited to offer an introduction into digital methods and data practices to analyze and understand culture. In this folder, you find all the materials that will prepare you for the Summer School. 
 
 ## Installation
 Before we start the Summer School, we kindly ask you to carry out the following installation instructions to ensure that you have all the necessary software installed on your computer. This will ensure a smooth start of the Summer School. 
 
-We recommend using [Anaconda Navigator](#anaconda-navigator) and [Jupyter Lab](#jupyter-lab) for the Summer School. If you have another preferred programming environment, you are welcome to use that as well, but we can not ensure that we will have the space and time to assist you with technical issues specific to your environment. 
+We recommend using [Anaconda Navigator](#anaconda-navigator) and [Jupyter Lab](#jupyter-lab) for the Summer School. If you wish to use another integrated development environment (IDE), you are welcome to use that as well, but we can not ensure that we will have the space and time to assist you with technical issues specific to your environment. 
 
 If you run into any problems during the installation, please try to resolve them by yourself first. The internet is full of useful information, and finding solutions to technical problems is a valuable skill for a (soon-to-be) programmer. Of course we are happy to help you if you really get stuck, don't hesitate to send us an email in that case (see [Questions](#Questions)). 
 
@@ -45,11 +44,13 @@ During the Summer School, we will use `GitHub` to share materials and code. GitH
     -  [Mac](https://git-scm.com/download/mac); note that you have to install the `Homebrew` package manager first (instructions included on the download page).
     -  [Linux](https://git-scm.com/download/linux)
     
-We will explain how to use GitHub during the Summer School, so don't worry if you are not familiar with it yet. Just make sure you have installed git and created an account. 
+We will explain how to use GitHub during the Summer School, so don't worry if you are not familiar with it yet. Just make sure you have installed `git` and created an account. 
 
 If this all works, you are ready to start working on the materials. Have fun coding! 
 
-## Python exercises
+
+## Preparation
+### Python exercises
 
 We have prepared a series of programming exercises to help you get familiar with Python and Jupyter Lab. We recommend that you complete these exercises before the Summer School starts. Depending on your experience with coding, in total they might take you 1 to 4 hours to complete. 
 
@@ -59,29 +60,25 @@ We advise you to start well in advance so that you have enough time to complete 
 - `1c_containers.ipynb`
 - `1d_loops.ipynb`
 
-## Questions
+### Questions
 If you have any questions concerning the installation, please feel free to contact us via [dataschool@uu.nl](mailto:dataschool@uu.nl) or via the `General` channel in the [Microsoft Teams environment](https://teams.microsoft.com/l/team/19%3A926dtqI1Uod7YGRNC4KXgFrLUXJ5WFIdYBFSprh_2oU1%40thread.tacv2/conversations?groupId=004ee296-bab8-40e0-a27a-5f5852d3e0ab&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7). Questions concerning programming will be answered during the week of the Summer School. 
 
-
----
-
-> [!NOTE]
-> Merge this text from usage.md with the text above
  
+## Getting the materials
 To get started with the Jupyter Notebooks from this GitHub repository, follow these steps:
 
-### Option 1: Using Git Clone
+### Option 1: Download as ZIP
+1. **Download the [ZIP File](https://github.com/CentreForDigitalHumanities/Summer-School-2024/archive/refs/heads/main.zip)**:
+2. **Extract the ZIP File**:
+   - Locate the downloaded ZIP file on your computer.
+   - Right-click and select "Extract All" or use a tool like WinRAR or 7-Zip to extract the files.
+
+### Option 2: Using Git Clone
 1. **Install Git**: Ensure Git is installed on your system. You can download it from [git-scm.com](https://git-scm.com).
 2. **Clone the Repository**:
    - Open your terminal (Command Prompt, PowerShell, etc.).
    - Navigate to the directory where you want to clone the repository.
    - Run the command: `git clone https://github.com/CentreForDigitalHumanities/Summer-School-2024/`.
-
-### Option 2: Download as ZIP
-1. **Download the [ZIP File](https://github.com/CentreForDigitalHumanities/Summer-School-2024/archive/refs/heads/main.zip)**:
-2. **Extract the ZIP File**:
-   - Locate the downloaded ZIP file on your computer.
-   - Right-click and select "Extract All" or use a tool like WinRAR or 7-Zip to extract the files.
 
 ### Opening Jupyter Notebooks
 1. **Navigate to the Repository Folder**:

@@ -4,6 +4,7 @@
 For proper understanding of the use of the Jupyter Notebooks in the `code` folder and programming in Python, it is useful to distinguish different components involved. Below is a brief explanation, followed by links to documentation on the various components.
 
 **Anaconda** serves as a comprehensive package that includes **Python** (the core language), **Jupyter** (for interactive notebooks), and **IPython** (as the underlying interactive shell in Jupyter), along with other tools and libraries.
+
 ```plaintext
                         Anaconda
               (Includes Python, Jupyter, IPython, and more)
@@ -17,7 +18,7 @@ For proper understanding of the use of the Jupyter Notebooks in the `code` folde
 ```
 
 ### Anaconda
-A distribution that includes Python, Jupyter, and many data science packages, along with the Conda package manager for easy environment management.
+Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. [^1] It includes Python, Jupyter, and many data science packages, along with the Conda package manager for easy environment management.
 - [Documentation](https://docs.anaconda.com/)
 - [Navigator](https://docs.anaconda.com/navigator/)
 - [Free Learning](https://freelearning.anaconda.cloud/)
@@ -39,3 +40,5 @@ A versatile, high-level programming language used in various fields including da
 - [pandas](https://pandas.pydata.org/); a powerful Python library for data manipulation and analysis, offering data structures like DataFrames to handle structured data easily.
 - [Plotly](https://plotly.com/python/); an interactive visualization library in Python that allows for the creation of complex plots and charts, including 3D plots and maps, with a focus on interactivity.
 - [seaborn](https://seaborn.pydata.org/); a Python visualization library built on top of [Matplotlib](https://matplotlib.org/), designed for creating informative and attractive statistical graphics with minimal code.
+
+[1] https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)
