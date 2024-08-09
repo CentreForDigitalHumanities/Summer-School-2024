@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"f6e74a84d6bb36cd","type":"group","x":-1780,"y":-360,"width":380,"height":780,"label":"Basics of Programming"},
+		{"id":"1a61706f90366504","type":"group","x":-40,"y":-360,"width":380,"height":780,"label":"Final group assignment"},
+		{"id":"c4065bbc99ec16f2","type":"group","x":-500,"y":-360,"width":380,"height":780,"label":"Data visualization"},
+		{"id":"42f745ffd8544e6a","type":"group","x":-920,"y":-360,"width":325,"height":780,"label":"Text analysis"},
+		{"id":"ba9d5dc2fd054bdb","type":"group","x":-1325,"y":-360,"width":325,"height":780,"label":"Data collection"},
+		{"id":"272f0380f1edbca6","type":"group","x":-2600,"y":-360,"width":290,"height":780,"label":"Preparations"},
+		{"id":"494d110cbc1888ec","type":"group","x":-2120,"y":-360,"width":290,"height":780,"label":"Introduction"},
+		{"id":"25ddec176f989c10","x":-2120,"y":-640,"width":1120,"height":160,"type":"group","label":"Guest lectures"},
+		{"id":"68449e7312ff1986","type":"group","x":-1740,"y":-120,"width":290,"height":420,"color":"3","label":"Python"},
+		{"id":"1012e2b31c1586fd","type":"group","x":0,"y":0,"width":290,"height":260,"label":"Presentations"},
+		{"id":"9e55f55c3bc4ddf1","type":"group","x":-480,"y":-140,"width":324,"height":100,"color":"3","label":"matplotlib"},
+		{"id":"f5de4d00da6193c5","type":"text","text":"Group 1","x":20,"y":20,"width":250,"height":60},
+		{"id":"4f68cf8a5d654375","type":"text","text":"Group 2","x":20,"y":100,"width":250,"height":60},
+		{"id":"8dbfeafa4e025d7e","type":"text","text":"Group 3","x":20,"y":180,"width":250,"height":60},
+		{"id":"3f60d8342aeaab73","type":"text","text":"pandas","x":-1720,"y":-100,"width":250,"height":60,"color":"3"},
+		{"id":"e83192445be6754e","type":"text","text":"data types","x":-1720,"y":-20,"width":250,"height":60,"color":"3"},
+		{"id":"52a741fa23531cf5","type":"text","text":"containers","x":-1720,"y":60,"width":250,"height":60,"color":"3"},
+		{"id":"c13295312821da44","type":"text","text":"loops","x":-1720,"y":140,"width":250,"height":60,"color":"3"},
+		{"id":"20023038435ce5ea","type":"text","text":"Introduction:\nWhat is programming?","x":-1720,"y":-320,"width":250,"height":120},
+		{"id":"0894970af9ea3f3c","type":"text","text":"functions","x":-1720,"y":220,"width":250,"height":60,"color":"3"},
+		{"id":"d7fa613bb6ea5909","type":"text","text":"seaborn","x":-440,"y":-120,"width":250,"height":50,"color":"3"},
+		{"id":"f67b081a6c4bf1ff","type":"text","text":"webscraper.io","x":-1280,"y":-80,"width":250,"height":60},
+		{"id":"7580beac63613159","type":"text","text":"API","x":-1280,"y":0,"width":250,"height":60},
+		{"id":"f0894af422d656ee","type":"text","text":"td-idf","x":-880,"y":-200,"width":250,"height":60},
+		{"id":"b41648eedd5ac3e2","type":"text","text":"nltk","x":-880,"y":-300,"width":250,"height":60},
+		{"id":"fb099b3c69bb680e","type":"text","text":"Anaconda Navigator","x":-2580,"y":-120,"width":250,"height":60,"color":"4"},
+		{"id":"123807bc8361277c","type":"text","text":"Jupyter Lab","x":-2580,"y":-40,"width":250,"height":60,"color":"2"},
+		{"id":"49c8076e228117b8","type":"text","text":"Git","x":-2580,"y":40,"width":250,"height":60},
+		{"id":"ad41e594da3811dc","type":"text","text":"Dennis Nguyen -\nThinking in Data","x":-2100,"y":-596,"width":250,"height":90},
+		{"id":"0939f99127fe5cbb","type":"text","text":"Hay Kranen - Data Journalism","x":-1720,"y":-596,"width":250,"height":90},
+		{"id":"7326019e67f5ad1f","x":-1280,"y":-596,"width":250,"height":89,"type":"text","text":"Julia Straatman - Data Ethics"},
+		{"id":"29d502a07400da17","x":-2100,"y":-320,"width":250,"height":60,"type":"text","text":"[Introduction](https://github.com/CentreForDigitalHumanities/Summer-School-2024/blob/main/docs/slides/01a-introduction.pdf)"}
+	],
+	"edges":[
+		{"id":"f97b7d87d83fb79a","fromNode":"f6e74a84d6bb36cd","fromSide":"right","toNode":"ba9d5dc2fd054bdb","toSide":"left"},
+		{"id":"9bbcc0717718db0a","fromNode":"ba9d5dc2fd054bdb","fromSide":"right","toNode":"42f745ffd8544e6a","toSide":"left"},
+		{"id":"2d5e5b8a9d9ca803","fromNode":"42f745ffd8544e6a","fromSide":"right","toNode":"c4065bbc99ec16f2","toSide":"left"},
+		{"id":"1328b52ed2c87b0d","fromNode":"c4065bbc99ec16f2","fromSide":"right","toNode":"1a61706f90366504","toSide":"left"},
+		{"id":"b65cd7ca56f8326f","fromNode":"272f0380f1edbca6","fromSide":"right","toNode":"494d110cbc1888ec","toSide":"left"}
+	]
+}
